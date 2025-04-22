@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Aider Card",
+    "uid": "aider_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "Aider.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

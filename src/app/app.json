@@ -1,0 +1,16 @@
+{
+  "name": "Aider App Template",
+  "description": "This private app is part of an Aider project template.",
+  "uid": "aider_app",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/aider-card.json"
+        }
+      ]
+    }
+  }
+}
