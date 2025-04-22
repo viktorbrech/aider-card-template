@@ -1,4 +1,4 @@
-# HubSpot CRM React UI Extension -- Project Template
+# HubSpot CRM React UI Extension -- Aider Template
 
 This template is for use with an Aider based code generation loop.
 
